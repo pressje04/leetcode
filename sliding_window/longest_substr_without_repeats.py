@@ -20,7 +20,7 @@ class Solution:
 
 def test():
     sol = Solution()
-    print(sol.lengthOfLongestSubstring("aab"))
+    print(sol.lengthOfLongestSubstring("dvdf"))
     print(sol.lengthOfLongestSubstring("zxyzxyz"))
 
 if __name__ == "__main__":
